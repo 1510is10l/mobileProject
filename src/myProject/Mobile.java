@@ -19,11 +19,6 @@ public class Mobile {
 		System.out.println(" ");
 	}
 	
-//	public void changeMob(double change)
-//	{
-//		price = change;
-//	}
-	
 	public void oldAndNew(double change)
 	{
 		System.out.println("Old: " + price);
